@@ -5,7 +5,7 @@ tags:
   - rocket propulsion
   - software archaeology
 authors:
-  - name: Damian Rouson^[Corresponding author.]
+  - name: Mandy Bowman^[Corresponding author.]
     orcid: 0000-0002-2344-868X
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
   - name: Brad Richardson
