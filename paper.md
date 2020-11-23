@@ -7,10 +7,12 @@ tags:
   - galactic dynamics
   - milky way
 authors:
-  - name: Mandy Bowman^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
+
+  - name: Erik M. Urzua^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
+
     orcid: 0000-0003-0872-7098
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID
+  - name: Mandy Bowman
     affiliation: 2
   - name: Author with no affiliation
     affiliation: 3
